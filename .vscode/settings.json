@@ -1,2 +1,8 @@
 {
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "files.trimTrailingWhitespace": true,
+  "javascript.validate.enable": true,
+  "prettier.eslintIntegration": true
 }
